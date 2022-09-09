@@ -1,0 +1,16 @@
+com\service\AdminSer.class
+com\repository\Quizrepo.class
+com\repository\Testrepo.class
+com\service\UserSer.class
+com\bean\Test.class
+com\bean\Statistics.class
+com\bean\Admin.class
+com\bean\Question.class
+com\repository\Userrepo.class
+com\bean\User.class
+com\bean\Quiz.class
+com\bean\Result.class
+com\demo\OnlineQuizPortalRestApplication.class
+com\repository\Questionrepo.class
+com\repository\AdminRepo.class
+com\controller\MainController.class
